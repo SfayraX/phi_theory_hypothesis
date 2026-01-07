@@ -292,7 +292,7 @@ Factor breakdown:
 
 ### 3.6 Comparison with Experiment
 
-**CODATA 2018:**
+**CODATA 2022:**
 ```
 α⁻¹_exp = 137.035999084(21)
 ```
@@ -917,7 +917,7 @@ See Supplementary Material in main document for complete code including:
 
 ## 16. REFERENCES
 
-[1] CODATA 2018. *Rev. Mod. Phys.* 93, 025010 (2021)
+[1] CODATA 2022. *Rev. Mod. Phys.* 93, 025010 (2022)
 
 [2] Lelli, F. et al. *Astron. J.* 152, 157 (2016) - SPARC
 
@@ -995,7 +995,7 @@ Status: Independent Researcher
 
 ## What This Is
 
-**Φ-Theory v2.1 is a research hypothesis** that:
+**Φ-Theory v1.0 is a research hypothesis** that:
 
 ✅ Has **one very strong result** - α derivation with 0.00027% accuracy, no free parameters
 
@@ -1043,7 +1043,7 @@ We propose a hypothesis and ask for help in verification."*
 
 **Title:** Φ-Theory: A Geometric Hypothesis for Spacetime Structure and the Fine-Structure Constant
 
-**Version:** 2.1 - Complete Framework  
+**Version:** 1.0
 **Date:** January 4, 2026  
 **Pages:** ~40-45  
 **Status:** 🔬 ACTIVE RESEARCH  
